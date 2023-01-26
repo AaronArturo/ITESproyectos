@@ -1,0 +1,66 @@
+/* style de index¨*/
+.fondo_index{
+    background-image: url(../img/1600w-Q6zORw9qrdA.webp);
+}
+.texto_centrado{
+    text-align: center;
+}
+#boton_login{
+    margin: 2rem 0rem 0rem 9rem;
+}
+
+.login_index{
+    margin: 8rem 0rem 0rem 0rem;
+}
+
+/*style pagina_inicio.html------------------*/
+
+.fondo_pantalla{
+    background-color: rgb(5, 5, 78);
+}
+
+.fondo_barra_lateral{
+    background-color: rgba(11, 43, 110, 0.897);
+}
+ img.icono{
+    margin: 3rem 0rem 0rem 4rem;
+}
+nav.margin{
+    margin: 2rem 0rem 0rem 2rem;
+}
+.texto_color{
+    color: white;
+}
+div.fondo_titulo{
+    background-color: rgb(13, 0, 128);
+    box-shadow: 2px 2px 2px 2px rgb(131, 131, 131);
+    border-radius: 10px;
+}
+
+/*----Style docente ---------------*/
+
+.margin_cajatexto{
+    margin: 3px 0 0 0;
+}
+.margin_table{
+    margin: 4rem 0rem 0rem 0rem;
+}
+.btn_docente{
+    margin: 0rem 0 0 13rem;
+}
+
+/*---nuevo usuario------*/
+
+#form_registro{
+    margin: 5rem 20rem 0 18rem;
+}
+#btn_r{
+    margin: 2rem 0 0 13rem;
+}
+#confirmar{
+    margin: 5rem 17rem 0 15rem;
+}
+
+.verificar{
+    margin: 0rem 20rem 0rem 0rem;
+}
